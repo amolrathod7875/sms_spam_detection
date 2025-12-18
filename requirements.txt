@@ -4,3 +4,8 @@ scikit-learn
 matplotlib
 seaborn
 nltk
+fastapi
+joblib
+python-multipart
+uvicorn
+streamlit

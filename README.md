@@ -12,9 +12,9 @@ The goal of this project is to build a prediction model that accurately classifi
 The model achieved exceptional performance metrics, making it highly reliable for spam filtering tasks:
 
 * **Accuracy:** 98.92%
-* **Precision:** 97.35% *(Crucial for minimizing false positives)*
-* **Recall:** 94.84%
-* **F1 Score:** 96.08%
+* **Precision:** 94.35% *(Crucial for minimizing false positives)*
+* **Recall:** 93.84%
+* **F1 Score:** 94.08%
 
 ## 📂 About the Dataset
 
