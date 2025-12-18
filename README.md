@@ -51,7 +51,7 @@ The corpus was compiled from various free-for-research sources:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/sms-spam-detection.git
+git clone https://github.com/amolrathod7875/sms_spam_detection.git
 
 ```
 
